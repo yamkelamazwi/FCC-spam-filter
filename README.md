@@ -1,5 +1,17 @@
 # Spam Filter
 
+# Spam Filter
+
+[HTML5]
+[CSS3]
+[JavaScript]
+
+[Regular Expressions]
+[Status: Completed]
+[fCC JavaScript Project]
+
+[GitHub Source Code]
+
 A simple spam detection tool built with JavaScript and Regular Expressions.
 
 This project scans user messages for common spam phrases and catches attempts to bypass filters by replacing letters with numbers or symbols.
